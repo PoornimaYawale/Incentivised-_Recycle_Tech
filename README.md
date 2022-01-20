@@ -26,7 +26,7 @@ Here's What You Need to Use the inventory management system:
 # Design Techniques  
 Design of the Website is done using the following technologies:-
 
-• HTML, CSS, Bootstrap And  JavaScript
+• HTML, CSS
 
 • Php For Backend Management
 
